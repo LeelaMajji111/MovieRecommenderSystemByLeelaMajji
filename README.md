@@ -2,7 +2,9 @@
 
 #Live Demo
 https://movierecommendersystembyleelamajji-t9byzxhq9qowzzvgoy9qny.streamlit.app/
+
 #Project Overview
+
 This project is a Content-Based Movie Recommender System that suggests similar movies based on user input.
 The system analyzes movie metadata such as genres, keywords, cast, crew, and overview to find similarities between movies.
 When a user selects a movie, the system recommends the top similar movies.
@@ -45,6 +47,7 @@ The model uses movie information such as:
 
 #Model Used
 Content-Based Filtering using Cosine Similarity
+
 Saved files:
 
 similarity.pkl
