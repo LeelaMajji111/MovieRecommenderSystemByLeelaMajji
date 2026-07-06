@@ -51,5 +51,7 @@ Content-Based Filtering using Cosine Similarity
 Saved files:
 
 similarity.pkl
+
 movie_dict.pkl
+
 movies.pkl
